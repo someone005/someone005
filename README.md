@@ -33,4 +33,4 @@
     </h2>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=someone005&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/someone005/someone005/output/snake.svg" />
