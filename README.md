@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.discordapp.com/avatars/775708240213835776/a_87e210598b8f43a8b5a1f7cf8ad65e4f.gif?size=256" />
+    <img src="https://avatars.githubusercontent.com/u/98275381" />
     <h1 align="center">someone</h1>
 </div>
 
