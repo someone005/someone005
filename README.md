@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <h5>Guy who enjoys coding at free time. I specialize at backend, but I can do some magic in frontend 😏</h5>
+    <h5>Guy who enjoys coding at free time. I specialize at backend, but I can do some magic in frontend</h5>
 </div>
 
 <div align="center">
