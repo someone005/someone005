@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <h2>Programming Languages, Libraries etc.:</h2>
+    <h2>Programming Languages, Libraries etc.:
     <br/><br/>
     <img src="https://cdn.simpleicons.org/lua/2C2D72" width="40vw" alt="Lua" />
     <img width="5vw" />
@@ -38,6 +38,8 @@
     <img width="5vw" />
     <img src="https://cdn.simpleicons.org/git/F05032" width="40vw" alt="Apache Maven" />
     <img width="5vw" />
+
+        </h2>
 </div>
 </div>
 
