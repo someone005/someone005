@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <h2>Programming Languages, Libraries etc.:
+    <h2>Programming Languages, Libraries etc.:</h2>
     <br/><br/>
     <img src="https://cdn.simpleicons.org/lua/2C2D72" width="40vw" alt="Lua" />
     <img width="5vw" />
@@ -32,9 +32,13 @@
     <img width="5vw" />
     <img src="https://cdn.simpleicons.org/expo/FFF0000" width="40vw" alt="Expo" />
     <img width="5vw" />
-    <img src="https://cdn.simpleicons.org/go/42B3F5" width="40vw" alt="Expo" />
+    <img src="https://cdn.simpleicons.org/go/42B3F5" width="40vw" alt="Go" />
     <img width="5vw" />
-    </h2>
+    <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="40vw" alt="Apache Maven" />
+    <img width="5vw" />
+    <img src="https://cdn.simpleicons.org/git/F05032" width="40vw" alt="Apache Maven" />
+    <img width="5vw" />
+</div>
 </div>
 
 <div align="center">
