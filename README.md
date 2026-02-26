@@ -38,8 +38,7 @@
     <img width="5vw" />
     <img src="https://cdn.simpleicons.org/git/F05032" width="40vw" alt="Apache Maven" />
     <img width="5vw" />
-
-        </h2>
+    </h2>
 </div>
 </div>
 
